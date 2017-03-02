@@ -19,6 +19,13 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.HashSet;
 
+/**
+ * 演示一个热修复（hotFix）的例子
+ * 参考了QQ空间的一个补丁方案
+ * https://yq.aliyun.com/articles/70320
+ * 
+ * Created by guoxiaojiang on 17/3/2.
+ */
 public class MainActivity extends AppCompatActivity {
 
     public static final String DEX_DIR = "odex";
