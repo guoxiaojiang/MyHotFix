@@ -1,4 +1,5 @@
 com/xiaojiang/hotfix/MainActivity.class
+com/xiaojiang/hotfix/MyApplication.class
 com/xiaojiang/hotfix/fixutils/FixUtil.class
 rx/android/concurrency/AndroidSchedulers.class
 rx/android/concurrency/HandlerThreadScheduler.class

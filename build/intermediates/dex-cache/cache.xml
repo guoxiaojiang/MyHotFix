@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        custom-flags="--main-dex-list=/Users/guoxiaojiang/codes_download/MyHotFix/app/maindexlist.txt,--minimal-main-dex,--multi-dex,--set-max-idx-number=60000"
+        is-multidex="true"
+        jar="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_372292fe26e0d565a459445ca420a19c7e1aafa0/classes.dex" />
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_372292fe26e0d565a459445ca420a19c7e1aafa0/classes2.dex" />
+    </item>
+    <item
+        custom-flags="--main-dex-list=/Users/guoxiaojiang/codes_download/MyHotFix/app/maindexlist.txt,--minimal-main-dex,--multi-dex,--set-max-idx-number=60000"
+        is-multidex="true"
+        jar="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_0e3b457bd1623d71ca1e1d54ed6079cf1f6ce011/classes.dex" />
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_0e3b457bd1623d71ca1e1d54ed6079cf1f6ce011/classes2.dex" />
+    </item>
+    <item
+        custom-flags="--main-dex-list=/Users/guoxiaojiang/codes_download/MyHotFix/app/maindexlist.txt,--minimal-main-dex,--multi-dex,--set-max-idx-number=60000"
+        is-multidex="true"
+        jar="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_a101ce31c28572e9bb4c6a054aa8540608ed1586/classes.dex" />
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_a101ce31c28572e9bb4c6a054aa8540608ed1586/classes2.dex" />
+    </item>
+    <item
+        custom-flags="--main-dex-list=/Users/guoxiaojiang/codes_download/MyHotFix/app/maindexlist.txt,--minimal-main-dex,--multi-dex,--set-max-idx-number=60000"
+        is-multidex="true"
+        jar="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_ca16b4555c7cd0e5252f942402fca23244f64fc9/classes.dex" />
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_ca16b4555c7cd0e5252f942402fca23244f64fc9/classes2.dex" />
+    </item>
+    <item
+        custom-flags="--main-dex-list=/Users/guoxiaojiang/codes_download/MyHotFix/app/maindexlist.txt,--minimal-main-dex,--multi-dex,--set-max-idx-number=60000"
+        is-multidex="true"
+        jar="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e02faa38164f87ecb3ba928f5b5ebdb442087946">
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_54d5d637100361335dcffd09daacfa5c86caa448/classes.dex" />
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_54d5d637100361335dcffd09daacfa5c86caa448/classes2.dex" />
+    </item>
+    <item
+        custom-flags="--main-dex-list=/Users/guoxiaojiang/codes_download/MyHotFix/app/maindexlist.txt,--minimal-main-dex,--multi-dex,--set-max-idx-number=60000"
+        is-multidex="true"
+        jar="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_a94afa94e3a7f32448cc847b4be8968a8b4ba783/classes.dex" />
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_a94afa94e3a7f32448cc847b4be8968a8b4ba783/classes2.dex" />
+    </item>
+    <item
+        custom-flags="--main-dex-list=/Users/guoxiaojiang/codes_download/MyHotFix/app/maindexlist.txt,--minimal-main-dex,--multi-dex,--set-max-idx-number=60000"
+        is-multidex="true"
+        jar="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_c2db9c573d3531fc0d59e6b2ad331abeea1aa9c1/classes.dex" />
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_c2db9c573d3531fc0d59e6b2ad331abeea1aa9c1/classes2.dex" />
+    </item>
+    <item
+        custom-flags="--main-dex-list=/Users/guoxiaojiang/codes_download/MyHotFix/app/maindexlist.txt,--minimal-main-dex,--multi-dex,--set-max-idx-number=60000"
+        is-multidex="true"
+        jar="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_05a9f6cb42aa5fd464393f8afbc9e734bc6403ff/classes.dex" />
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_05a9f6cb42aa5fd464393f8afbc9e734bc6403ff/classes2.dex" />
+    </item>
+    <item
+        custom-flags="--main-dex-list=/Users/guoxiaojiang/codes_download/MyHotFix/app/maindexlist.txt,--minimal-main-dex,--multi-dex,--set-max-idx-number=60000"
+        is-multidex="true"
+        jar="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e828b0b9a2ad942111e9094fb07eac2493d46358/classes.dex" />
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e828b0b9a2ad942111e9094fb07eac2493d46358/classes2.dex" />
+    </item>
+    <item
+        custom-flags="--main-dex-list=/Users/guoxiaojiang/codes_download/MyHotFix/app/maindexlist.txt,--minimal-main-dex,--multi-dex,--set-max-idx-number=60000"
+        is-multidex="true"
+        jar="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_5ae37639952043f15f68a643f0ecb8c4d221e4ee/classes.dex" />
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_5ae37639952043f15f68a643f0ecb8c4d221e4ee/classes2.dex" />
+    </item>
+    <item
+        custom-flags="--main-dex-list=/Users/guoxiaojiang/codes_download/MyHotFix/app/maindexlist.txt,--minimal-main-dex,--multi-dex,--set-max-idx-number=60000"
+        is-multidex="true"
+        jar="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e27d1c3e47431589d6fb6972f20fbc44775be371/classes.dex" />
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e27d1c3e47431589d6fb6972f20fbc44775be371/classes2.dex" />
+    </item>
+    <item
+        custom-flags="--main-dex-list=/Users/guoxiaojiang/codes_download/MyHotFix/app/maindexlist.txt,--minimal-main-dex,--multi-dex,--set-max-idx-number=60000"
+        is-multidex="true"
+        jar="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3e145190aa13c8cf650cb8c2aa863efca39eb5e3/classes.dex" />
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3e145190aa13c8cf650cb8c2aa863efca39eb5e3/classes2.dex" />
+    </item>
+    <item
+        custom-flags="--main-dex-list=/Users/guoxiaojiang/codes_download/MyHotFix/app/maindexlist.txt,--minimal-main-dex,--multi-dex,--set-max-idx-number=60000"
+        is-multidex="true"
+        jar="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d328066f52d22bdd6755b99863dd7d8064e64ca0/classes.dex" />
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d328066f52d22bdd6755b99863dd7d8064e64ca0/classes2.dex" />
+    </item>
+    <item
+        custom-flags="--main-dex-list=/Users/guoxiaojiang/codes_download/MyHotFix/app/maindexlist.txt,--minimal-main-dex,--multi-dex,--set-max-idx-number=60000"
+        is-multidex="true"
+        jar="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_3826bdac4db59878bb6c7d7e7c3b5bf3d0e68c1b/classes.dex" />
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_3826bdac4db59878bb6c7d7e7c3b5bf3d0e68c1b/classes2.dex" />
+    </item>
+    <item
+        custom-flags="--main-dex-list=/Users/guoxiaojiang/codes_download/MyHotFix/app/maindexlist.txt,--minimal-main-dex,--multi-dex,--set-max-idx-number=60000"
+        is-multidex="true"
+        jar="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a4e23e2cfbf51f7af6daa1b2ea44044252508c5f/classes.dex" />
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a4e23e2cfbf51f7af6daa1b2ea44044252508c5f/classes2.dex" />
+    </item>
+    <item
+        custom-flags="--main-dex-list=/Users/guoxiaojiang/codes_download/MyHotFix/app/maindexlist.txt,--minimal-main-dex,--multi-dex,--set-max-idx-number=60000"
+        is-multidex="true"
+        jar="/Users/guoxiaojiang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_3f1111b116b0cc44075d6882c1579ae7c1f3f7b6/classes.dex" />
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_3f1111b116b0cc44075d6882c1579ae7c1f3f7b6/classes2.dex" />
+    </item>
+    <item
+        custom-flags="--main-dex-list=/Users/guoxiaojiang/codes_download/MyHotFix/app/maindexlist.txt,--minimal-main-dex,--multi-dex,--set-max-idx-number=60000"
+        is-multidex="true"
+        jar="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_84e54b9eab2661019dea35bbab95d5c274a1c3c4/classes.dex" />
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_84e54b9eab2661019dea35bbab95d5c274a1c3c4/classes2.dex" />
+    </item>
+    <item
+        custom-flags="--main-dex-list=/Users/guoxiaojiang/codes_download/MyHotFix/app/maindexlist.txt,--minimal-main-dex,--multi-dex,--set-max-idx-number=60000"
+        is-multidex="true"
+        jar="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="725fba14a1a236a754e8e99fe39d31a870ddcb99">
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_03db755b836da9132c95c861e295bdc68e33542b/classes.dex" />
+        <dex dex="/Users/guoxiaojiang/codes_download/MyHotFix/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_03db755b836da9132c95c861e295bdc68e33542b/classes2.dex" />
+    </item>
+
+</items>

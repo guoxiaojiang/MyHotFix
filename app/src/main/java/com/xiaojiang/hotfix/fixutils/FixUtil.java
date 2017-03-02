@@ -1,6 +1,9 @@
 package com.xiaojiang.hotfix.fixutils;
 
 import android.content.Context;
+import android.util.Log;
+
+import com.xiaojiang.hotfix.MainActivity;
 
 import java.io.File;
 import java.lang.reflect.Array;
@@ -64,15 +67,15 @@ public class FixUtil {
      * @return
      */
     private static Object combineArray(Object obj, Object obj2) {
-        Class componentType = obj2.getClass().getComponentType();
-        int length = Array.getLength(obj2);
-        int length2 = Array.getLength(obj) + length;
-        Object newInstance = Array.newInstance(componentType, length2);
-        for (int i = 0; i < length2; i++) {
-            if (i < length) {
-                Array.set(newInstance, i, Array.get(obj2, i));
+        Class componentType = obj.getClass().getComponentType();
+        int i = Array.getLength(obj);
+        int j = Array.getLength(obj2) + i;
+        Object newInstance = Array.newInstance(componentType, j);
+        for (int k = 0; k < j; ++k) {
+            if (k < i) {
+                Array.set(newInstance, k, Array.get(obj, k));
             } else {
-                Array.set(newInstance, i, Array.get(obj, i - length));
+                Array.set(newInstance, k, Array.get(obj2, k - i));
             }
         }
         return newInstance;
@@ -114,7 +117,7 @@ public class FixUtil {
         //用来解压dex的临时目录
         String optimizedDir = fileDir.getAbsolutePath() + File.separator + "opt_dex";
         File fopt = new File(optimizedDir);
-        if (! fopt.exists()) {
+        if (!fopt.exists()) {
             fopt.mkdirs();
         }
         for (File dex: loadedDexs) {
@@ -129,9 +132,25 @@ public class FixUtil {
             Object dexElements = combineArray(getDexElements(getPathList(classLoader)), getDexElements(getPathList(pathLoader)));
             Object pathList = getPathList(pathLoader);
             setField(pathList, pathList.getClass(), "dexElements", dexElements);
+//            pathLoader.loadClass(className);
+
         } catch (Exception e) {
             e.printStackTrace();
         }
+    }
+
+    public static void loadFixedDex(Context context) {
+        File fileDir = context.getDir(MainActivity.DEX_DIR, context.MODE_PRIVATE);
+        HashSet<File> fileSet = new HashSet<File>();
+        File[] listFiles = fileDir.listFiles();
+        for (File fil : listFiles) {
+            if (fil.getName().endsWith(".dex")) {
+                Log.d("MainActivity", "add a dex file:" + fil.getName());
+                fileSet.add(fil);
+            }
+        }
+        //注入
+        FixUtil.doDexInject(context, fileDir, fileSet);
     }
 
 }

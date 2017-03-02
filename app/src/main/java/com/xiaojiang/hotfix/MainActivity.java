@@ -60,16 +60,12 @@ public class MainActivity extends AppCompatActivity {
                 fos.write(buffer, 0, len);
             }
             Log.d(TAG, "dex file wrote to private file");
-            HashSet<File> fileSet = new HashSet<File>();
-            File[] listFiles = fileDir.listFiles();
-            for (File fil : listFiles) {
-                if (fil.getName().endsWith("dex")) {
-                    Log.d(TAG, "add a dex file:" + fil.getName());
-                    fileSet.add(fil);
-                }
+            FixUtil.loadFixedDex(MainActivity.this);
+            try{
+                android.os.Process.killProcess(android.os.Process.myPid());
+            }catch(Throwable t){
+                t.printStackTrace();
             }
-            //注入
-            FixUtil.doDexInject(MainActivity.this, fileDir, fileSet);
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
